@@ -1,0 +1,21 @@
+<nav class="navbar navbar-default" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+        <%= link_to 'MyBlog', root_path %>
+    </div>
+    <div class="navbar-header">
+      <%= link_to 'Bio', bio_index_path %>
+    </div>
+    <ul class="nav navbar-nav navbar-right">
+      <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Menu <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li class="divider"></li>
+          <%= link_to 'My Blog', root_path %>
+        <li class="divider"></li>
+        <%= link_to 'Bio', bio_index_path %>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</nav>

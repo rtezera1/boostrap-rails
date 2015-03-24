@@ -1,0 +1,10 @@
+== README
+
+This is a sample blog app I created to play with bootstrap and 
+jquary 
+
+TODO: add the link to the website
+
+
+
+
