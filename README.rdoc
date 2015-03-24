@@ -7,4 +7,3 @@ TODO: add more bootstrap and jquery functionality
 
 [This is the temporary URL](https://intense-escarpment-1910.herokuapp.com)
 
-
