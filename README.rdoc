@@ -3,8 +3,8 @@
 This is a sample blog app I created to play with bootstrap and 
 jquary 
 
-TODO: add the link to the website
+TODO: add more bootstrap and jquery functionality
 
-
+[This is the temporary URL] (https://intense-escarpment-1910.herokuapp.com)
 
 
